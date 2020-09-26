@@ -1,7 +1,6 @@
 #ifndef FILEIO_H
 #define FILEIO_H
 
-#include <iostream>
 #include "constants.h"
 
 //attempt to open file 'filename' and read in all data

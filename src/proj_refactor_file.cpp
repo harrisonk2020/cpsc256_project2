@@ -1,4 +1,5 @@
-
+#include "../includes/fileio.h"
+#include "../includes/utils.h"
 
 int main() {
 	vector<process> myProcesses;
